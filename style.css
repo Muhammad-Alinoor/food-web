@@ -66,3 +66,11 @@ footer{
     margin: 0px -8px -20px -8.5px;
     padding-bottom: 3px;
 }
+form{
+    text-align: center;
+}
+input[type=text]{
+    width: 40%;
+    border: 2px solid rgb(141, 105, 105);
+    font-weight: bold;    
+}
