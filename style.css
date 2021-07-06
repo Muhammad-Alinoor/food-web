@@ -42,6 +42,7 @@ a{
 }
 .third-cont{
     display: flex;
+    margin-bottom: 10p;
 }
 .one-third{
     width:25%;
@@ -59,11 +60,9 @@ a{
     margin-left: 20%;
     margin-right: 20%;
 }
-body footer{
+footer{
     text-align: center;
     background-color: rgb(100, 98, 98);
-    margin-bottom: -20px;
-    margin-left: -8.5px;
-    margin-right: -8px;
+    margin: 0px -8px -20px -8.5px;
     padding-bottom: 3px;
 }
